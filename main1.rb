@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 puts "Дата на раждане"
-date = gets.chomp
+birth_day = gets.chomp
 puts "Месец на раждане"
 month = gets.chomp
 puts "Година на раждане"
